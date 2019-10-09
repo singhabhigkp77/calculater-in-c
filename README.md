@@ -1,0 +1,2 @@
+# calculater-in-c
+hi 
